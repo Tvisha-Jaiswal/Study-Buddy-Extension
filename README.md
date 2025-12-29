@@ -17,7 +17,7 @@ Since I use a secure API key for the AI model, you will need to set up a configu
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Tvisha-Jaiswal/Study-Buddy-Extension.git](https://github.com/Tvisha-Jaiswal/Study-Buddy-Extension.git)
+git clone https://github.com/Tvisha-Jaiswal/Study-Buddy-Extension.git
 ```
 
 ### 2. Create the Config File (Important!)
