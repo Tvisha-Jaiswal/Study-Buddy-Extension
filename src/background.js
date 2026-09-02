@@ -53,7 +53,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                             },
                             {
                                 role: "user",
-                                // We use the "Sandwich" prompt from sidepanel.js here to ensure context doesn't confuse it
                                 content: prompt
                             }
                         ]
